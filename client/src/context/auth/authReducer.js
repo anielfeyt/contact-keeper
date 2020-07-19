@@ -6,7 +6,6 @@ import {
     LOGIN_SUCCESS,
     LOGOUT,
     CLEAR_ERRORS,
-    REGISTER_FAILE,
     LOGIN_FAIL
 } from '../types';
 
